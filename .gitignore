@@ -4,3 +4,7 @@
 *.ptx
 *.cubin
 *.fatbin
+
+Add/add-main
+Life0/cuda-life
+Life1/cuda-life
